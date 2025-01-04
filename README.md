@@ -1,4 +1,4 @@
-# CSDS-452-Causality-And-Machine-Learning
+# CSDS 452 Causality And Machine Learning
  
 ## Course Overview
 
