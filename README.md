@@ -27,3 +27,13 @@ Upon successful completion of this course, you will be able to:
 - Introduction to causal inference
 - Using machine learning to help causal inference
 - Using causal inference to help machine learning
+
+## Recommended books
+
+[1] [Imbens, Guido W, and Donald B Rubin. 2015. Causal Inference for
+Statistics, Social, and Biomedical Sciences: An Introduction. Cambridge
+University Press.](https://github.com/Thomson-Cui/CSDS-452-Causality-And-Machine-Learning/blob/main/Books/-Guido_W._Imbens%2C_Donald_B._Rubin-_Causal_Inferenc(z-lib.org).pdf)
+
+[2] [Pearl J. Causality[M]. Cambridge university press, 2009.](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B)
+
+[3] [Miguel Hernan, Jamie Robins. 2023. “Causal Inference: What If”.](https://remlapmot.github.io/cibookex-r/)
